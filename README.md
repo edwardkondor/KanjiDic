@@ -1,13 +1,9 @@
 
 ### アン
-<span class="shelf-title">安</span>　**やす**い・らか
-<span class="shelf-title">案</span>　**かんが**える（**つくえ**）
-
-<kbd><img src="https://glyphwiki.org/glyph/u5b89.svg" width="28" height="28" alt="安"></kbd>　
-<img src="https://glyphwiki.org/glyph/u5b89.svg" width="28" height="28" alt="安">
+<kbd><img src="https://glyphwiki.org/glyph/u5b89.svg" width="28" height="28" alt="安"></kbd>　**やす**い・らか
+<kbd><img src="https://glyphwiki.org/glyph/u6848.svg" width="28" height="28" alt="安"></kbd>　**かんが**える（**つくえ**）
 
 
-<big>案</big>　<tt>アン</tt>　
 
 <!--
 
