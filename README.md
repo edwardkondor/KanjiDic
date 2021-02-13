@@ -2,7 +2,7 @@
 ### アン
 
 <img src="https://glyphwiki.org/glyph/u5b89.svg" width="20" height="20">
-![](https://glyphwiki.org/glyph/u5b89.svg =20x20)
+![](https://glyphwiki.org/glyph/u5b89.svg | width=20)
 
 <!--
 
