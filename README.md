@@ -1,7 +1,7 @@
 
 ### アン
 
-<img src="https://glyphwiki.org/glyph/u5b89.svg" width="25" height="25">
+<img src="https://glyphwiki.org/glyph/u5b89.svg" width="28" height="28">
 
 <!--
 
