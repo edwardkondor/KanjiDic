@@ -1,7 +1,13 @@
 
 ### アン
 
-<kbd><img src="https://glyphwiki.org/glyph/u5b89.svg" width="28" height="28" alt="安"></kbd>
+<span class="shelf-title">安</span>
+
+<kbd><img src="https://glyphwiki.org/glyph/u5b89.svg" width="28" height="28" alt="安"></kbd>　
+<img src="https://glyphwiki.org/glyph/u5b89.svg" width="28" height="28" alt="安">
+
+
+
 
 <!--
 
