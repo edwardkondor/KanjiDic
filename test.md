@@ -1,4 +1,4 @@
-<font>
+<div class="flex">
     <p>
         <big><em>豆</em></big><tt><sup>トウ</sup><sub>ヅ</sub></tt>
         <em>
@@ -24,4 +24,4 @@
         </em>
 
     </p> 
-<font> 
+<div> 
