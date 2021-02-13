@@ -1,7 +1,7 @@
 
-### アン
-<kbd><img src="https://glyphwiki.org/glyph/u5b89.svg" width="28" height="28" alt="安"></kbd>　**やす**い・らか
-<kbd><img src="https://glyphwiki.org/glyph/u6848.svg" width="28" height="28" alt="安"></kbd>　**かんが**える（**つくえ**）
+<kbd><img src="https://glyphwiki.org/glyph/u5b89.svg" width="28" height="28" alt="安"></kbd><kbd>アン</kbd>[**やす**らか](https://jisho.org/search/やすらか)　<ruby>安心<rt>あんしん</rt></ruby>　[**やす**い](https://jisho.org/search/やすらか)　[<ruby>安価<rt>あんか</rt></ruby>](https://jisho.org/search/安価)　[<ruby>安易<rt>あんい</rt></ruby>](https://jisho.org/search/安易)
+
+<kbd><img src="https://glyphwiki.org/glyph/u6848.svg" width="28" height="28" alt="安"></kbd><kbd>アン</kbd>**かんが**える（**つくえ**）
 
 
 
