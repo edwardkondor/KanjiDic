@@ -4,4 +4,4 @@
 
 <kbd><img src="https://glyphwiki.org/glyph/u7e41.svg" width="26" height="26" alt="繁"></kbd>
 <kbd>ハン</kbd>
-[**しげ**る](https://jisho.org/search/しげる)　　　　　　[<ruby>頻繁<rt>りんぱん</rt></ruby>](https://jisho.org/search/頻繁)　[<ruby>繁殖<rt>はんしょく</rt></ruby>](https://jisho.org/search/繁殖)　[<ruby>繁栄<rt>はんえい</rt></ruby>](https://jisho.org/search/繁栄)
+[**しげ**る](https://jisho.org/search/しげる)　　　　　　　[<ruby>頻繁<rt>りんぱん</rt></ruby>](https://jisho.org/search/頻繁)　[<ruby>繁殖<rt>はんしょく</rt></ruby>](https://jisho.org/search/繁殖)　[<ruby>繁栄<rt>はんえい</rt></ruby>](https://jisho.org/search/繁栄)
