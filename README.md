@@ -2,6 +2,6 @@
 <kbd>あい</kbd>
 [**めで**る]()&numsp;
 [**いと**しい]()&numsp;
-[<ruby>可愛<rt>かわいい</rt></ruby>い]()&numsp;
-[<ruby>恋愛<rt>れんあい</rt></ruby>い]()&numsp;
-[<ruby>愛情<rt>あいじょう</rt></ruby>い]()&numsp;
+[<ruby>可愛<rt>かわい</rt></ruby>い]()&numsp;
+[<ruby>恋愛<rt>れんあい</rt></ruby>]()&numsp;
+[<ruby>愛情<rt>あいじょう</rt></ruby>]()&numsp;
