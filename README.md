@@ -1,5 +1,5 @@
 <kbd><img src="https://glyphwiki.org/glyph/u611b.svg" width="26" height="26" alt="宗"></kbd>
-<kbd>あい</kbd>
+<kbd>アイ</kbd>
 [**めで**る]()&numsp;
 [**いと**しい]()&numsp;
 [<ruby>可 愛<rt>かわい</rt></ruby>い]()&numsp;
