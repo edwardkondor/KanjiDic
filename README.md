@@ -1,6 +1,6 @@
 <kbd><img src="https://glyphwiki.org/glyph/u611b.svg" width="26" height="26" alt="愛"></kbd>
 <kbd>アイ</kbd>
-[**めで**る](https://jisho.org/search/めでる)
+[**め**でる](https://jisho.org/search/めでる)
 &nbsp;
 [**いと**しい](https://jisho.org/search/いとしい)
 &nbsp;
