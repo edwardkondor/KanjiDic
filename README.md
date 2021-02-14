@@ -9,7 +9,7 @@
 <kbd>すゝ　</kbd>
 　<img src="lv1.svg">[**あが**める](https://jisho.org/search/崇める)
 　<img src="lv0.svg">[<ruby>崇⁰拝₁<rt>すゝ　はい　</rt></ruby>](https://jisho.org/search/崇拝)
-　<img src="lv1.svg">[<ruby>崇⁰高⁰<rt>すゝ　かう　</ins></rt></ruby>](https://jisho.org/search/崇高)
+　<img src="lv1.svg">[<ruby>崇⁰高¹<rt>すゝ　かう　</ins></rt></ruby>](https://jisho.org/search/崇高)
 　<img src="lv2.svg">[<ruby>崇⁰敬₁<rt>すゝ　けゝ　</rt></ruby>](https://jisho.org/search/崇敬)
 
 
