@@ -2,8 +2,8 @@
 </kbd><kbd>シユウ<br>ソゥ</kbd>
 <img src="lv1.svg">[**あが**める](https://jisho.org/search/崇める)
 <img src="lv0.svg">[<ruby>宗教<rt><ins>しゅぅき</ins>ゃう</rt></ruby>](https://jisho.org/search/宗教)
-<img src="lv1.svg">[<ruby>宗旨<rt><ins>しゅぅ</ins>　し</rt></ruby>](https://jisho.org/search/崇高)
-<img src="lv2.svg">[<ruby>宗家<rt><ins>そう　け</ins></rt></ruby>](https://jisho.org/search/崇敬)
+<img src="lv1.svg">[<ruby>宗旨<rt><ins>しゅぅ</ins>　し　</rt></ruby>](https://jisho.org/search/崇高)
+<img src="lv2.svg">[<ruby>宗家<rt><ins>そう　け　</ins></rt></ruby>](https://jisho.org/search/崇敬)
 
 
 
