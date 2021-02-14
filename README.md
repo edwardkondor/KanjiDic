@@ -1,4 +1,4 @@
-</sup><kbd><img src="https://glyphwiki.org/glyph/u611b.svg" width="26" height="26" alt="宗"></kbd>
+<img src="https://glyphwiki.org/glyph/u611b.svg" width="26" height="26" alt="宗">
 <kbd>あい</kbd>
 [**めで**る]()&numsp;
 [**いと**しい]()&numsp;
