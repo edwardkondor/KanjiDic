@@ -14,7 +14,7 @@
 <kbd>ハン</kbd>
 [**しげ**る](https://jisho.org/search/しげる)
 &nbsp;
-[<ruby>頻繁<rt>りんぱん</rt></ruby>い](https://jisho.org/search/頻繁)
+[<ruby>頻繁<rt>りんぱん</rt></ruby>](https://jisho.org/search/頻繁)
 &nbsp;
 [<ruby>繁殖<rt>はんしょく</rt></ruby>](https://jisho.org/search/繁殖)
 &nbsp;
