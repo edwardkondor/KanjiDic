@@ -4,4 +4,4 @@
 [**いと**しい]()&numsp;
 [<ruby>可 愛<rt>かわい</rt></ruby>い]()&numsp;
 [<ruby>恋 愛<rt>れんあい</rt></ruby>]()&numsp;
-[<ruby>愛 情<rt>あいじょう</rt></ruby>]()&numsp;
+[<ruby>愛 情<rt>あいじょぅ</rt></ruby>]()&numsp;
