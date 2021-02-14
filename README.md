@@ -8,7 +8,7 @@
 
 
 **スゝ**
-![](bluel.svg)
+
 
 
 <img src="https://glyphwiki.org/glyph/u5d07.svg">
@@ -16,3 +16,4 @@
 <img src="https://glyphwiki.org/glyph/u5d07.svg" width="24" height="24" alt="崇">　<ins>[**あが**める](https://jisho.org/search/崇める)</ins>　<ins>[<ruby>崇拝<rt>すうはい</rt></ruby>](https://jisho.org/search/崇拝)</ins>　[<ruby>崇高<rt>すうこう</rt></ruby>](https://jisho.org/search/崇高)　[<ruby>崇敬<rt>すうけい</rt></ruby>](https://jisho.org/search/崇敬)
 
 
+![](bluel.svg)
