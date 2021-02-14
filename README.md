@@ -7,6 +7,6 @@
 <img src="https://glyphwiki.org/glyph/u6697.svg" width="24" height="24" alt="暗">　<ins>[**くら**い](https://jisho.org/search/暗い)</ins>　<ins>[<ruby>暗号<rt>あんごう</rt></ruby>](https://jisho.org/search/暗号)</ins>　<ins>[<ruby>暗殺<rt>あんさつ</rt></ruby>](https://jisho.org/search/暗殺)</ins>　[<ruby>暗示<rt>あんじ</rt></ruby>](https://jisho.org/search/暗示)　[**そら**で](https://jisho.org/search/空で)　[<ins><ruby>暗記<rt>あんき</rt></ruby></ins>（諳記）](https://jisho.org/search/暗記)
 
 
-<img src="lgx.svg" width="4" height="24"><img src="https://glyphwiki.org/glyph/u5d07.svg" width="24" height="24" alt="崇"> <kbd>スゝ</kbd> <img src="lgx.svg"> [**あが**める](https://jisho.org/search/崇める)　 [<ruby>崇拝<rt>すうはい</rt></ruby>](https://jisho.org/search/崇拝)</ins>　[<ruby>崇高<rt>すうこう</rt></ruby>](https://jisho.org/search/崇高)　[<ruby>崇敬<rt>すうけい</rt></ruby>](https://jisho.org/search/崇敬)
+<img src="lgx.svg" width="4" height="24"><img src="https://glyphwiki.org/glyph/u5d07.svg" width="240" height="24" alt="崇"> <kbd>スゝ</kbd> <img src="lgx.svg"> [**あが**める](https://jisho.org/search/崇める)　 [<ruby>崇拝<rt>すうはい</rt></ruby>](https://jisho.org/search/崇拝)</ins>　[<ruby>崇高<rt>すうこう</rt></ruby>](https://jisho.org/search/崇高)　[<ruby>崇敬<rt>すうけい</rt></ruby>](https://jisho.org/search/崇敬)
 
 <img src="https://glyphwiki.org/glyph/u5b88.svg" width="24" height="24" alt="守"> <kbd>シュ</kbd> <img src="l.svg"> [**あが**める](https://jisho.org/search/崇める)　<img src="l.svg">[<ruby>崇拝<rt>すうはい</rt></ruby>](https://jisho.org/search/崇拝)</ins>　[<ruby>崇高<rt>すうこう</rt></ruby>](https://jisho.org/search/崇高)　[<ruby>崇敬<rt>すうけい</rt></ruby>](https://jisho.org/search/崇敬)
