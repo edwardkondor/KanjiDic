@@ -1,2 +1,4 @@
 body{color:#444;}
 main{max-width:800px; margin:auto;}
+a,a:visited{color:#06d}
+em a,em a:visited{color:#00e}
