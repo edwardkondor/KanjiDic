@@ -1,5 +1,5 @@
 ---
-layout: my-fancy-layout
+layout: main
 ---
 
 <big>*[来]()*　[來]()</big> <small><sup>ライ</sup><sub>ライ</sub></small>　*[**く**る]()*　[**き**たる]()　[<ruby>到来<rt>たうらい</rt></ruby>]()
