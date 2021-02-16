@@ -7,3 +7,4 @@ layout: home
 <big>*[崇]()*　　</big> <small><sup>スヽ</sup><sub>ライ</sub></small>　*[**あが**める](https://jisho.org/search/崇める)*　*[<ruby>崇拝<rt>すゝはい</rt></ruby>](https://jisho.org/search/崇拝)*　[<ruby>崇高<rt>すゝかう</rt></ruby>](https://jisho.org/search/崇高)
 
 .
+tesy
