@@ -1,9 +1,7 @@
 ---
 ---
 
-@import "minima/skins/{{ site.minima.skin | default: 'classic' }}";
-@import "minima/initialize";
-
+@import "{{ site.theme }}";
 
 big{font-size:25px}
 small{display:inline-grid}
