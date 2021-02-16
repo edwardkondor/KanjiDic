@@ -2,4 +2,4 @@
 
 
 
-［<ruby>強<ins>烈</ins><rt>キョウ　レツ</rt></ruby>］<ruby><ins>強</ins><rt>つよ</rt>い</ruby>・<ruby>烈<rt>はげ</rt>しい</ruby>
+<ruby>［強<ins>烈</ins>］<rt>　キョウ　レツ　</rt></ruby><ruby><ins>強</ins><rt>つよ</rt>い</ruby>・<ruby>烈<rt>はげ</rt>しい</ruby>
