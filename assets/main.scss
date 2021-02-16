@@ -3,10 +3,14 @@
 
 @import "{{ site.theme }}";
 
+body{font-family: Andika, 'Noto Sans CJK JP', sans-serif}
 big{font-size:25px}
-small{display:inline-grid}
 
-small sub, small sup{vertical-align:unset; display:block}
+small, rt{font:10.5px Andika, 'Meiryo UI'}
+small{display:inline-block}
+small sub, small sup{vertical-align:unset; display:block; font-size:inherit}
+
+
 
 a,a:visited{color:#06d}
 
