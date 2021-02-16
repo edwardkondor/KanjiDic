@@ -1,4 +1,8 @@
-@import "minima";
+---
+---
+
+@import "minima/skins/{{ site.minima.skin | default: 'classic' }}";
+@import "minima/initialize";
 
 
 big{font-size:25px}
